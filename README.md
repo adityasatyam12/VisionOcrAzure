@@ -9,3 +9,8 @@ Azure Storage Account
 Visual Studio Code
 Python SDK or REST API
 Azure Web App for deployment
+
+.env
+
+VISION_ENDPOINT=<your-endpoint>
+VISION_KEY=<your-key>
