@@ -12,5 +12,5 @@ Azure Web App for deployment
 
 .env
 
-VISION_ENDPOINT=<your-endpoint>
+VISION_ENDPOINT=<your-endpoint>  //azure ocr vision
 VISION_KEY=<your-key>
